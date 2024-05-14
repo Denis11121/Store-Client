@@ -32,6 +32,7 @@ public class ClientBLL {
     }
 
 
+
     /**
      * @param client client sters din baza de date
      */
