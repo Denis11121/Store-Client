@@ -3,7 +3,7 @@ package businessLogic;
 import dataAccess.ClientDAO;
 import dataAccess.OrderDAO;
 import dataAccess.OrderItemDAO;
-import model.Bill; // Import the Bill class
+import model.Bill;
 import model.Client;
 import model.OrderItem;
 import model.Orders;
